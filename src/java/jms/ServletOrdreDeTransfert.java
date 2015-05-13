@@ -29,10 +29,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import metier.CompteBancaire;
 
-/**
- *
- * @author kaba
- */
+
 @WebServlet(name = "ServletOrdreDeTransfert", urlPatterns = {"/ServletOrdreDeTransfert"})
 public class ServletOrdreDeTransfert extends HttpServlet {
 
