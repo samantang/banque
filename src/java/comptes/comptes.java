@@ -17,10 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import metier.*;
 
-/**
- *
- * @author kaba
- */
+
 public class comptes extends HttpServlet {
 
     @EJB
