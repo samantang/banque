@@ -18,10 +18,6 @@ import javax.servlet.http.HttpServletResponse;
 import metier.Client;
 import metier.CompteBancaire;
 
-/**
- *
- * @author kaba
- */
 @WebServlet(name = "clients", urlPatterns = {"/clients"})
 public class clients extends HttpServlet {
 
